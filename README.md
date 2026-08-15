@@ -9,3 +9,7 @@ JavaScript and TypeScript Nightly
 Error Lens
 Material Icon Theme
 Constatic Theme
+
+
+Gerar o projeto
+npm init -y
