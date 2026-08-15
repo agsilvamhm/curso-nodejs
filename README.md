@@ -13,3 +13,5 @@ Constatic Theme
 
 Gerar o projeto
 npm init -y
+npm install -D typescript tsx
+npm install -D @types/node
