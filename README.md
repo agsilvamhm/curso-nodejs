@@ -2,4 +2,4 @@
 
 Link para o curso do Nodejs
 
-https://www.youtube.com/watch?v=522HiDiAf0w&list=PLJ_KhUnlXUPtbtLwaxxUxHqvcNQndmI4B&index=2
+https://www.youtube.com/watch?v=4pIo-p6pX34&list=PL9tY_tDo_Q0DOAzTaPnWYsryfNLsz1K6U
