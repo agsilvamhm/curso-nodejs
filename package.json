@@ -1,0 +1,18 @@
+{
+  "name": "curso-nodejs",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "\"# curso-nodejs\"",
+  "main": "buildindex.js",
+  "scripts": {
+    "build": "tsc",
+    "dev": "tsx src/index.ts",
+    "start": "node .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "@types/node": "^26.2.0",
+    "tsx": "^4.23.12",
+    "typescript": "^7.0.2"
+  }
+}
